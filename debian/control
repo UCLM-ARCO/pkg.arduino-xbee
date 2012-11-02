@@ -1,0 +1,17 @@
+Source: arduino-xbee
+Section: devel
+Priority: extra
+Maintainer: Oscar Aceña Herrera <oscaracena@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://code.google.com/p/xbee-arduino/
+
+
+Package: arduino-xbee
+Architecture: i386
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Arduino library for communicating with XBees in API mode
+ Provides support for both Series 1 (802.15.4) and Series 2 (ZB
+ Pro/ZNet). This library Includes support for the majority of packet
+ types, including: TX/RX, AT Command, Remote AT, I/O Samples and Modem
+ Status.
