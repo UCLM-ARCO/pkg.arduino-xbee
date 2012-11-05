@@ -2,7 +2,7 @@ Source: arduino-xbee
 Section: devel
 Priority: extra
 Maintainer: Oscar Aceña Herrera <oscaracena@gmail.com>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 8.0.0), quilt
 Standards-Version: 3.9.3
 Homepage: http://code.google.com/p/xbee-arduino/
 
