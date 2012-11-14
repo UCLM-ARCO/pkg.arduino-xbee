@@ -9,5 +9,5 @@
 +
 +install:
 +	install -vd $(TARGET)
-+	install -v -m 444 XBee/*.cpp $(TARGET)/
-+	install -v -m 444 XBee/*.h $(TARGET)/
++	install -v -m 444 *.cpp $(TARGET)/
++	install -v -m 444 *.h $(TARGET)/
