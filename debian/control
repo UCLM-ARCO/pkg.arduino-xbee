@@ -3,7 +3,7 @@ Section: devel
 Priority: extra
 Maintainer: Oscar Aceña Herrera <oscaracena@gmail.com>
 Build-Depends: debhelper (>= 8.0.0), quilt
-Standards-Version: 3.9.3
+Standards-Version: 3.9.6
 Homepage: http://code.google.com/p/xbee-arduino/
 
 
